@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-tickers/static/css/main.ea32c443.css",
+    "main.js": "/crypto-tickers/static/js/main.e9c174b3.js",
+    "static/js/787.b43f7113.chunk.js": "/crypto-tickers/static/js/787.b43f7113.chunk.js",
+    "index.html": "/crypto-tickers/index.html",
+    "main.ea32c443.css.map": "/crypto-tickers/static/css/main.ea32c443.css.map",
+    "main.e9c174b3.js.map": "/crypto-tickers/static/js/main.e9c174b3.js.map",
+    "787.b43f7113.chunk.js.map": "/crypto-tickers/static/js/787.b43f7113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea32c443.css",
+    "static/js/main.e9c174b3.js"
+  ]
+}
